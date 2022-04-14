@@ -7,3 +7,7 @@ export 'package:furor_progress_test/service/service_product.dart';
 export 'package:flutter/material.dart';
 export 'package:furor_progress_test/screens/home_page.dart';
 export 'package:provider/provider.dart';
+export 'package:furor_progress_test/providers/product_provider.dart';
+export 'package:furor_progress_test/screens/get_data_page.dart';
+export 'package:furor_progress_test/components/datas.dart';
+export 'package:furor_progress_test/constants/colors.dart';
